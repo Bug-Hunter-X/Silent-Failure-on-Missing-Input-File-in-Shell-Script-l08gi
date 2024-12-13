@@ -1,0 +1,1 @@
+This repository demonstrates a common error in shell scripting: failing silently when an input file is missing. The `bug.sh` script attempts to process a file without checking for its existence. The `bugSolution.sh` script shows how to correctly handle this situation using proper error checking and informative messages.
